@@ -10,5 +10,8 @@ public class StudentInfo {
 			String str = args[1];
 			System.out.println(str);
 		}
+
+		System.out.println("hi");
+		System.out.println("hihihi");
 	}
 }
